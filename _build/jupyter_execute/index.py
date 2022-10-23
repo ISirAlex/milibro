@@ -19,7 +19,7 @@
 
 # <h2>Ingrese al siguiente enlace para revisar todo sobre su importancia</h2>
 
-#   <a href="docs/pagina_1.html">Importancia sobre las **TICS**</a>
+#   <a href="pagina_1.html">Importancia sobre las **TICS**</a>
 
 #   <h2>Ingrese al siguiente enlace para revisar las Ventajas de las TICs en la educación</h2>
 
